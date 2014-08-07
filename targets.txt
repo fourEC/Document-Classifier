@@ -1,0 +1,29 @@
+Targets:
+
+ML-Data Mining-
+- Classification & clustering of documents
+- Content analysis
+
+Software Development Process-
+- UML
+- Design patterns
+
+Ranking Algorithms-
+- Creating index by ranking papers
+- Algorithms to search and sort the index
+- metadata information about paper(optional)
+
+Windows API-
+- Daemon process for continous updation
+- Working with windows API to provide functions like renaming/moving a file etc.
+
+GUI-
+- Creating user friendly GUI for software
+
+Future aspects: 
+- Bibliography and References analysis
+- Analysis of author's previous work
+- Content based search
+- Networking model
+- Synchronization of 2 or more collections of research papers 
+- Managing research papers in cloud libraries  
